@@ -1,0 +1,26 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+   color: blue;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+}
+button
+{
+    border: 3px solid blue;
+    font-size: 20px;
+    border-radius: 12px;
+}
+button:hover{
+    color: white;
+    background-color: blue;
+}
+.piada-texto{
+    font-size: 20px;
+    margin-top: 20px;
+   
+}
